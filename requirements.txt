@@ -1,2 +1,2 @@
-flask>=21
+flask>=2.0.0
 gunicorn>=23.2.0
